@@ -14,7 +14,7 @@ I have a Master's Degree in Data Science from the University of Amsterdam and a 
 
 ## News
 
-- **[Nov. 2023]** Our team got the 1st and 2nd place in the interactive Knowledge Acquisition Task (iKAT) @ TREC 2023!
+- **[Nov. 2023]** Our team got the 1st place in the interactive Knowledge Acquisition Task (iKAT) @ TREC 2023!
 - **[Aug. 2023]** [paper accepted]: *Contextualizing and Expanding Conversational Queries without Supervision* was just accepted for publication in the Transactions of Information Systems (TOIS) Journal.
 - **[Sept. 2022]** I just started my internship at Amazon Search Barcelona. I will work on Learned Sparse Retrieval for Product Search.
 - **[May 2022]** I was invited on the <a href="https://www.youtube.com/watch?v=0q7aHGyXe5k">5th Neural Information Retrieval podcast</a> where we discussed Few-shot Conversational Dense Retrieval (SIGIR'21).
