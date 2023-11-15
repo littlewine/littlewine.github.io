@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a 4th year Ph.D. student in the Information Retrieval Lab at the University of Amsterdam. 
-During my PhD I interned at *Amazon Search* Barcelona, while prior to that, I worked as a Data Scientist at *bol.com*.
+During my PhD I interned at *Amazon Search* Barcelona and prior to that I worked as a Data Scientist at *bol.com*.
 I have a Master's Degree in Data Science from the University of Amsterdam and a Diploma of Electrical and Computer Engineering from A.U.Th. (Aritstotle University of Thessaloniki).
 
 ## Research Interests
