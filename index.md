@@ -16,7 +16,7 @@ I have a Master's Degree in Data Science from the University of Amsterdam and a 
 
 - **[Nov. 2023]** Our team got the 1st place in the interactive Knowledge Acquisition Task (iKAT) @ TREC 2023!
 - **[Aug. 2023]** [paper accepted]: *Contextualizing and Expanding Conversational Queries without Supervision* was just accepted for publication in the Transactions of Information Systems (TOIS) Journal.
-- **[Sept. 2022]** I just started my internship at Amazon Search Barcelona. I will work on Learned Sparse Retrieval for Product Search.
+- **[Sept. 2022]** I will be interning at Amazon Search Barcelona. My work will focus on Learned Sparse Retrieval for Product Search.
 - **[May 2022]** I was invited on the <a href="https://www.youtube.com/watch?v=0q7aHGyXe5k">5th Neural Information Retrieval podcast</a> where we discussed Few-shot Conversational Dense Retrieval (SIGIR'21).
 - **[Oct 2021]** I gave a lecture about *Conversational Passage Retrieval* at the SIKS course in Advances for Information Retrieval <a href="https://github.com/littlewine/ConversationalPassageRetrieval/blob/main/SIKS%20-%20Conversational%20Passage%20Retrieval.pdf">[slides]</a>.
 - **[Jul 2021]**  I wrote a <a href="https://medium.com/@tony.littlewine/remote-debugging-with-gpus-in-distributed-slurm-compute-clusters-948b32234daa">blogpost</a> about *Remote debugging with GPUs in distributed (SLURM) compute clusters*</a>.
