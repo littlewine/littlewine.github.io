@@ -8,7 +8,7 @@ main:
     code: https://github.com/littlewine/ZeCo2
     video: https://dl.acm.org/doi/10.1145/3477495.3531769#sec-supp
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vnE3Q0gODHYJ:scholar.google.com/&output=citation&scisdr=ClGPLXoDEOCArP5Dt6s:AFWwaeYAAAAAZVRFr6sNIMWY5Epyh3ZTix6tt54&scisig=AFWwaeYAAAAAZVRFr7brRq6bi9eMH0pLlKdviMk&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/zeco2.png
+    image: ./assets/img/ZeCo2.png
 
   - title: Analysing the effect of clarifying questions on document ranking in conversational search
     authors: <strong>AM Krasakis</strong>, M Aliannejadi, N Voskarides, E Kanoulas
