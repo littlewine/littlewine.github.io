@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://sigir.org/ictir2023/"><autocolor>International Conference on the Theory of Information Retrieval (<strong>ICTIR</strong>) 2023</autocolor></a></li>
-  <li><a href="https://micros-workshop.github.io/"><autocolor>Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS) 2022</autocolor></a></li>
+  <li><a href="https://micros-workshop.github.io/"><autocolor>Mixed-Initiative ConveRsatiOnal Systems workshop (MICROS) 2022</autocolor></a></li>
 </ul>
 
 {% comment %}
