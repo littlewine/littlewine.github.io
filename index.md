@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a 4th year Ph.D. student in the <a href="https://irlab.science.uva.nl/">Information Retrieval Lab (IRLab)</a> at the University of Amsterdam, supervised by <a href="https://staff.fnwi.uva.nl/e.kanoulas/">Evangelos Kanoulas</a> and <a href="https://andrewyates.net/">Andrew Yates</a>.
-During my PhD I interned at *Amazon Search* Barcelona and prior to that I worked as a Data Scientist at *bol.com*. I have a Master's Degree in Data Science from the <a href="https://www.uva.nl/">University of Amsterdam</a> and a Diploma of Electrical and Computer Engineering from <a href="https://www.auth.gr/en/">A.U.Th.</a>. You can find my CV <a href="krasakis.com/assets/files/Krasakis_CV.pdf">here</a>.
+During my PhD I interned at *Amazon Search* Barcelona and prior to that I worked as a Data Scientist at *bol.com*. I have a Master's Degree in Data Science from the <a href="https://www.uva.nl/">University of Amsterdam</a> and a Diploma of Electrical and Computer Engineering from <a href="https://www.auth.gr/en/">A.U.Th.</a>. You can find my CV <a href="https://krasakis.com/assets/files/Krasakis_CV.pdf">here</a>.
 
 ## Research Interests
 
