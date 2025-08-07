@@ -16,15 +16,13 @@ You can find my CV <a href="https://krasakis.com/assets/files/Krasakis_CV.pdf">h
 
 ## News
 
-- **[Aug. 2025]** [paper accepted]: *Constructing Set-Compositional and Negated Representations for First-Stage Ranking * accepted @ CIKM 2025! <a href="https://arxiv.org/abs/2501.07679">[pre-print]</a>
-- **[May 2025]**  I joined *Microsoft Research Africa* for a 6-month internship in Nairobi. I'll work on fine-tuning small LMs for low-resource languages.
-- **[May 2025]**  🎓	I successfully defended my PhD at the University of Amsterdam <a href="https://hdl.handle.net/11245.1/d7389fa3-6ba2-49f7-9564-2c8c607d9288">[PhD dissertation]</a>!
+- **[Aug. 2025]** 📝 [paper accepted]: *Constructing Set-Compositional and Negated Representations for First-Stage Ranking* accepted @ CIKM 2025! <a href="https://arxiv.org/abs/2501.07679">[pre-print]</a>
+- **[May 2025]**  🚀 I joined Microsoft Research Africa for a 6-month internship in Nairobi. I’ll be working on fine-tuning small LMs for low-resource languages.
+- **[May 2025]**  🎓	I successfully **defended my PhD** at the University of Amsterdam <a href="https://hdl.handle.net/11245.1/d7389fa3-6ba2-49f7-9564-2c8c607d9288">[PhD dissertation]</a>!
 - **[Nov. 2023]** Our team got the 1st place in the <a href="https://www.trecikat.com/">interactive Knowledge Acquisition Task (iKAT)</a> @ TREC 2023!
-- **[Aug. 2023]** [paper accepted]: *Contextualizing and Expanding Conversational Queries without Supervision* was just accepted for publication in the Transactions of Information Systems (TOIS) Journal.
-- **[Sept. 2022]** I will be interning at Amazon Search Barcelona. My work will focus on Learned Sparse Retrieval for Product Search.
+- **[Sept. 2022]** 🚀 I started an internship at Amazon Search in Barcelona, focusing on Learned Sparse Retrieval for Product Search.
 - **[May 2022]** I was invited on the <a href="https://www.youtube.com/watch?v=0q7aHGyXe5k">5th Neural Information Retrieval podcast</a> where we discussed Few-shot Conversational Dense Retrieval (SIGIR'21).
-- **[Oct 2021]** I gave a lecture about *Conversational Passage Retrieval* at the SIKS course in Advances for Information Retrieval <a href="https://github.com/littlewine/ConversationalPassageRetrieval/blob/main/SIKS%20-%20Conversational%20Passage%20Retrieval.pdf">[slides]</a>.
-- **[Jul 2021]**  I wrote a <a href="https://medium.com/@tony.littlewine/remote-debugging-with-gpus-in-distributed-slurm-compute-clusters-948b32234daa">blogpost</a> about *Remote debugging with GPUs in distributed (SLURM) compute clusters*</a>.
+- **[Jul 2021]**  I wrote a <a href="https://medium.com/@tony.littlewine/remote-debugging-with-gpus-in-distributed-slurm-compute-clusters-948b32234daa">blogpost</a> about *Remote debugging with GPUs in distributed (SLURM) compute clusters*.
 
  
 {% include_relative _includes/publications.md %}
