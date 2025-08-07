@@ -1,5 +1,19 @@
 main:
 
+  - title: Constructing Set-Compositional and Negated Representations for First-Stage Ranking
+    authors: <strong>AM Krasakis</strong>, A Yates, E Kanoulas
+    conference_short: CIKM
+    conference: ACM International Conference on Information and Knowledge Management, 2025.
+    pdf: https://arxiv.org/abs/2501.07679
+    image: ./assets/img/compositionalLSR.png
+
+
+  - title: Corpus-informed Retrieval Augmented Generation of Clarifying Questions
+    authors: <strong>AM Krasakis</strong>, A Yates, E Kanoulas
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2409.18575
+    
   - title: Zero-shot query contextualization for conversational search
     authors: <strong>AM Krasakis</strong>, A Yates, E Kanoulas
     conference_short: SIGIR
@@ -7,7 +21,6 @@ main:
     pdf: https://arxiv.org/abs/2204.10613
     code: https://github.com/littlewine/ZeCo2
     video: https://dl.acm.org/doi/10.1145/3477495.3531769#sec-supp
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vnE3Q0gODHYJ:scholar.google.com/&output=citation&scisdr=ClGPLXoDEOCArP5Dt6s:AFWwaeYAAAAAZVRFr6sNIMWY5Epyh3ZTix6tt54&scisig=AFWwaeYAAAAAZVRFr7brRq6bi9eMH0pLlKdviMk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/ZeCo2.png
 
   - title: Analysing the effect of clarifying questions on document ranking in conversational search
@@ -16,12 +29,10 @@ main:
     conference: Proceedings of the 2020 acm sigir on international conference on theory of information retrieval, 2020.
     pdf: https://arxiv.org/pdf/2008.03717.pdf
     video: https://dl.acm.org/doi/abs/10.1145/3409256.3409817#sec-supp
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Gajq9VXegmsJ:scholar.google.com/&output=citation&scisdr=ClGPLXoDEOCArP5FD1k:AFWwaeYAAAAAZVRDF1mRJFcbmAt5X2tMMO1ON6o&scisig=AFWwaeYAAAAAZVRDF0bdGqvHN0IEE6T3TbgHfn0&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/ictir20.png
 
   - title: Semi-supervised ensemble learning with weak supervision for biomedical relationship extraction
     authors: <strong>AM Krasakis</strong>, E Kanoulas, G Tsatsaronis
     conference: Automated Knowledge Base Construction (AKBC), 2019
     pdf: https://openreview.net/forum?id=rygDeZqap7
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U-8r4Ed0Dz4J:scholar.google.com/&output=citation&scisdr=ClGPLXoDEOCArP5A8Jg:AFWwaeYAAAAAZVRG6Jg1VhJE-rbvwZlDcZuZ45w&scisig=AFWwaeYAAAAAZVRG6PvjAu-eE8ZM6e1uPhLUwlQ&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/akbc.png
