@@ -12,7 +12,7 @@ You can find my CV <a href="https://krasakis.com/assets/files/Krasakis_CV.pdf">h
 
 ## Research Interests
 
-- **Information Retrieval:** Information Retrieval, Retrieval Augmented Generation, Large Language Models, Conversational Search
+- Information Retrieval, Retrieval Augmented Generation, Large Language Models, Conversational Search
 
 ## News
 
