@@ -11,8 +11,10 @@ main:
   - title: Corpus-informed Retrieval Augmented Generation of Clarifying Questions
     authors: <strong>AM Krasakis</strong>, A Yates, E Kanoulas
     conference_short: arXiv
-    conference: arXiv, 2024.
+    conference: arXiv pre-print, 2024.
     pdf: https://arxiv.org/abs/2409.18575
+    image: ./assets/img/RAG-CQ.png
+
     
   - title: Zero-shot query contextualization for conversational search
     authors: <strong>AM Krasakis</strong>, A Yates, E Kanoulas
