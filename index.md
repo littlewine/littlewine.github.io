@@ -4,15 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Ph.D. student in the <a href="https://irlab.science.uva.nl/">Information Retrieval Lab (IRLab)</a> at the University of Amsterdam, supervised by <a href="https://staff.fnwi.uva.nl/e.kanoulas/">Evangelos Kanoulas</a> and <a href="https://andrewyates.net/">Andrew Yates</a>.
-During my PhD I interned at *Amazon Search* Barcelona and prior to that I worked as a Data Scientist at *bol.com*. I have a Master's Degree in Data Science from the <a href="https://www.uva.nl/">University of Amsterdam</a> and a Diploma of Electrical and Computer Engineering from <a href="https://www.auth.gr/en/">A.U.Th.</a>. You can find my CV <a href="https://krasakis.com/assets/files/Krasakis_CV.pdf">here</a>.
+I am a researcher with a focus on Information Retrieval, Natural Language Processing, and Large Language Models. I recently completed my Ph.D. at the <a href="https://irlab.science.uva.nl/">IRLab</a> of the <a href="https://uva.nl/">University of Amsterdam</a>, where I was advised by <a href="https://staff.fnwi.uva.nl/e.kanoulas/">Evangelos Kanoulas</a> and <a href="https://andrewyates.net/">Andrew Yates</a>.
+
+During my Ph.D., I interned at *Microsoft Research* in Nairobi and the *Amazon* search team in Barcelona. Before that, I worked as a Data Scientist at *bol.com*. I hold a Master’s degree in Data Science from the <a href="https://www.uva.nl/">University of Amsterdam</a>, and a Diploma in Electrical and Computer Engineering from <a href="https://www.auth.gr/en/">A.U.Th.</a>
+
+You can find my CV <a href="https://krasakis.com/assets/files/Krasakis_CV.pdf">here</a>.
 
 ## Research Interests
 
-- **Information Retrieval:** Conversational Search, Retrieval Augmented Generation, Dense Retrieval and Learned Sparse Retrieval
+- **Information Retrieval:** Information Retrieval, Retrieval Augmented Generation, Large Language Models, Conversational Search
 
 ## News
 
+- **[Aug. 2025]** [paper accepted]: *Constructing Set-Compositional and Negated Representations for First-Stage Ranking
+ accepted @ CIKM 2025! <a href="https://arxiv.org/abs/2501.07679">[pre-print]</a>
+- **[May 2025]**  I joined *Microsoft Research Africa* for a 6-month internship in Nairobi. I'll work on fine-tuning small LMs for low-resource languages.
+- **[May 2025]**  :mortar_board: I successfully defended my PhD at the University of Amsterdam <a href="https://hdl.handle.net/11245.1/d7389fa3-6ba2-49f7-9564-2c8c607d9288">[PhD dissertation]</a>!
 - **[Nov. 2023]** Our team got the 1st place in the <a href="https://www.trecikat.com/">interactive Knowledge Acquisition Task (iKAT)</a> @ TREC 2023!
 - **[Aug. 2023]** [paper accepted]: *Contextualizing and Expanding Conversational Queries without Supervision* was just accepted for publication in the Transactions of Information Systems (TOIS) Journal.
 - **[Sept. 2022]** I will be interning at Amazon Search Barcelona. My work will focus on Learned Sparse Retrieval for Product Search.
